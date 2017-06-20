@@ -1,2 +1,2 @@
-# Survertix
-Survey project with vertix
+# SurvertX
+Survey project with vertX
